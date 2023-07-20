@@ -1,7 +1,10 @@
 body {
     background-color: rgb(107, 123, 123);
     color: #d3caca;
+}
 
-
-
+h1 {
+    width: 50%;
+    font-family: Arial, ;
+    text-align: center;
 }
